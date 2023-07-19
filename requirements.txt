@@ -132,7 +132,6 @@ soupsieve==2.4
 sqlparse==0.4.2
 stack-data==0.6.2
 streamlit==1.24.1
-TBB==0.2
 tenacity==8.2.2
 tensorflow-metal==0.4.0
 terminado==0.17.1
