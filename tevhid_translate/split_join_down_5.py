@@ -1,12 +1,9 @@
 import streamlit as st
 import openai
-import warnings
 from nltk.tokenize import word_tokenize, sent_tokenize
 import tiktoken
 import PyPDF2
 
-
-warnings.filterwarnings("ignore")
 
 st.set_page_config(
     page_title="Tevhidî Mütercim",
