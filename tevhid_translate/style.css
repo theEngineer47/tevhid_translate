@@ -1,0 +1,18 @@
+.css-10trblm,
+.css-1q7spjk {
+    text-align: center;
+}
+
+.css-5rimss p {
+    text-align: center;
+    font-style: italic;
+}
+
+/* Hide Streamlit's default components */
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
